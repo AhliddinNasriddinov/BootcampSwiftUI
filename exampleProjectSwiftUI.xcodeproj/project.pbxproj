@@ -15,6 +15,7 @@
 		4F9AAE2128F3E7990073B0E3 /* exampleProjectSwiftUI.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4F9AAE1F28F3E7990073B0E3 /* exampleProjectSwiftUI.xcdatamodeld */; };
 		4F9AAE2A28F3F03E0073B0E3 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F9AAE2928F3F03E0073B0E3 /* TextBootcamp.swift */; };
 		4FEEA7AE28F404A0005B707C /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FEEA7AD28F404A0005B707C /* ShapesBootcamp.swift */; };
+		4FEEA7B028F4409B005B707C /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FEEA7AF28F4409B005B707C /* ColorBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		4F9AAE2028F3E7990073B0E3 /* exampleProjectSwiftUI.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = exampleProjectSwiftUI.xcdatamodel; sourceTree = "<group>"; };
 		4F9AAE2928F3F03E0073B0E3 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		4FEEA7AD28F404A0005B707C /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		4FEEA7AF28F4409B005B707C /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4F9AAE1628F3E7960073B0E3 /* ContentView.swift */,
 				4F9AAE2928F3F03E0073B0E3 /* TextBootcamp.swift */,
 				4FEEA7AD28F404A0005B707C /* ShapesBootcamp.swift */,
+				4FEEA7AF28F4409B005B707C /* ColorBootcamp.swift */,
 				4F9AAE1828F3E7980073B0E3 /* Assets.xcassets */,
 				4F9AAE1D28F3E7980073B0E3 /* Persistence.swift */,
 				4F9AAE1F28F3E7990073B0E3 /* exampleProjectSwiftUI.xcdatamodeld */,
@@ -153,6 +156,7 @@
 				4F9AAE2128F3E7990073B0E3 /* exampleProjectSwiftUI.xcdatamodeld in Sources */,
 				4F9AAE1E28F3E7980073B0E3 /* Persistence.swift in Sources */,
 				4F9AAE1728F3E7960073B0E3 /* ContentView.swift in Sources */,
+				4FEEA7B028F4409B005B707C /* ColorBootcamp.swift in Sources */,
 				4FEEA7AE28F404A0005B707C /* ShapesBootcamp.swift in Sources */,
 				4F9AAE1528F3E7960073B0E3 /* exampleProjectSwiftUIApp.swift in Sources */,
 			);
