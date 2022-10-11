@@ -13,7 +13,7 @@ struct exampleProjectSwiftUIApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ColorBootcamp()
+            BackgroundsBootcamp()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
